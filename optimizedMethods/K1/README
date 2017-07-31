@@ -1,1 +1,7 @@
-This folder contains the methods used in Table 9 in paper
+This folder contains the methods used in Table 9 in the paper
+The methods are named 's's'pex'pe'pim'pi'plin'plinK1
+where 's' is the number of stages
+'pex' and 'pim' are the nonlinear order p=pim=pex
+'plin' is the linear order
+e.g. 5s3pe3pi5plinK1 has s=5, p=3, plin=6
+These methods are optimized for K=1
